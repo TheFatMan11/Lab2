@@ -41,7 +41,7 @@ public class bai22 extends AppCompatActivity {
                 String j = "Chơi game";
                 String kk ="";
                 boolean tes = false;
-                boolean d = man.isActivated();
+                boolean d = man.isChecked();
                 boolean e = one.isChecked();
                 boolean f = two.isChecked();
 
