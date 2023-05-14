@@ -21,6 +21,7 @@ public class bai22 extends AppCompatActivity {
         EditText ma = findViewById(R.id.editma);
         EditText tuoi = findViewById(R.id.edittuoi);
         RadioButton man = findViewById(R.id.nam);
+        man.setChecked(true);
         RadioButton woman = findViewById(R.id.nu);
         CheckBox one = findViewById(R.id.so1);
         CheckBox two = findViewById(R.id.so2);
